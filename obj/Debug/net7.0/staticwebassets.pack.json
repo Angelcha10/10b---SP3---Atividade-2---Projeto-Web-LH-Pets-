@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\angel\\Desktop\\Fullstack\\atividades\\codificaçao Back end\\atividade 2 10b-sp3 Projeto LH-Pets\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Codificaçao back end Projeto Web LH-pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Codificaçao back end Projeto Web LH-pets.props",
+      "PackagePath": "build\\Codificaçao back end Projeto Web LH-pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Codificaçao back end Projeto Web LH-pets.props",
+      "PackagePath": "buildMultiTargeting\\Codificaçao back end Projeto Web LH-pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Codificaçao back end Projeto Web LH-pets.props",
+      "PackagePath": "buildTransitive\\Codificaçao back end Projeto Web LH-pets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
